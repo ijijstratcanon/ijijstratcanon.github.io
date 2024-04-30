@@ -1,7 +1,7 @@
 # ij.start.canon
 
 
-[![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start.png)](https://can.printredir.com)
 
 
 People prefer using Canon printers, because of its advanced features like it can scan documents and easily send faxes. It delivers outstanding printing quality at very reasonable prices. Visit **[ij.start.canon](https://ijijstratcanon.github.io/)** and download the driver software for your device. Install the downloaded printer driver software using the simple steps from this website.
